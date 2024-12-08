@@ -5,7 +5,7 @@ The MTA Post-Pandemic Ridership Trends and Recovery Dashboard focuses on how var
 ### Tool Used 
 - Power BI
 ## Dashboard
-[Dashboart]
+![Dashboart](https://github.com/nitesh292/MTA-analysis-PowerBI/blob/main/MTA%201.png?raw=true)
 ## Key Matrics 
 #### 1. Overall Ridership 
 The total number of riders across all MTA services (Subway, Bus, LIRR, Metro-North, Staten Island Railway) from 2020 to 2024
